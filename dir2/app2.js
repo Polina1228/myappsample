@@ -1,0 +1,1 @@
+console.lpg(123)
